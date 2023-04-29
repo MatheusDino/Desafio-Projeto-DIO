@@ -1,2 +1,2 @@
 # Desafio-Projeto-DIO
-Desafios de projetos e atividades de cursos DIO.
+Repositório com um monte de coisa que fiz/farei durante aulas da DIO.
